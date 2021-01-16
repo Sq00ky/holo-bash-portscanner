@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import socket
-host = "10.200.69.33"
+host = "1.1.1.1"
 portList = [21,22,53,80,443,3306,8443,8080]
 
 for port in portList:
